@@ -4,6 +4,9 @@
 @media(min-width:576px){
 
 
+    .news-navigation a {
+        font-size: 22px;
+    }
 
 
 
@@ -42,7 +45,7 @@
     .container {
         max-width: 947px;
     }
-    
+
     .left-content {
         border-right: 1px dotted #9A9A9A;
     }
